@@ -1,0 +1,4 @@
+[package]
+name = "shotgun"
+version = "0.1.0"
+authors = ["Ruben Bakker <rubenbak@gmail.com>"]
